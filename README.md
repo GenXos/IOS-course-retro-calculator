@@ -1,2 +1,2 @@
-# IOS-course-retro-calculator
+# retro-calculator
 Calculator project
